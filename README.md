@@ -1,5 +1,6 @@
 Hey! Everyone Im Nandakishore Nair The project is build sucessfully Thanks to DeepSeek Ai to help me with this project work
 SRS
+
 Workout Planner Documentation
 1. Project Overview
 The Workout Planner is a web application built using Flask (a Python web framework) and MySQL for database management. It allows users to:
